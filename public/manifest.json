@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "SavingBuddy",
+  "version": "1.0",
+  "description": "SavingBuddy helps you save money by preventing unconscious purchases.",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+"32" : "icon32.png"
+    }
+  },
+  "icons": {
+"32" : "icon32.png"
+    }
+
+
+}
